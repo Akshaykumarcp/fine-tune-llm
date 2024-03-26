@@ -11,3 +11,10 @@ Fine tune LLM for custom requirements
 - [torchtune](https://github.com/pytorch/torchtune)
 - [OpenAI](https://platform.openai.com/docs/guides/fine-tuning)
 - [Unsloth](https://github.com/unslothai/unsloth)
+
+#### Dataset's
+- Several ways to create:
+  - Existing open-source datasets, e.g., [Spider](https://huggingface.co/datasets/spider)
+  - LLMs to create synthetically datasets, e.g., [Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca)
+  - Humans to create datasets, e.g., [Dolly](https://huggingface.co/datasets/databricks/databricks-dolly-15k)
+  - Combination of the above methods, e.g., [Orca](https://huggingface.co/datasets/Open-Orca/OpenOrca)
