@@ -13,6 +13,7 @@
 - LLMOPS:
     - comet-llm
         - Track fine tune model hyperparam values in real time
+            - ![](https://github.com/Akshaykumarcp/fine-tune-llm/blob/main/text%20classification/emotion%20classifier%20T5/comet-llm.png)
         - Register model
         - Deploy 
 - Evaluate:
