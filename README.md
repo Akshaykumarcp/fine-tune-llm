@@ -18,3 +18,9 @@ Fine tune LLM for custom requirements
   - LLMs to create synthetically datasets, e.g., [Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca)
   - Humans to create datasets, e.g., [Dolly](https://huggingface.co/datasets/databricks/databricks-dolly-15k)
   - Combination of the above methods, e.g., [Orca](https://huggingface.co/datasets/Open-Orca/OpenOrca)
+- References: [eugeneyan](https://eugeneyan.com/writing/synthetic/)
+
+#### Use cases
+| Use case | Code |
+| ------------- | ------------- |
+| [Out-of-Domain Finetuning to Bootstrap Hallucination Detection](https://eugeneyan.com/writing/finetuning/)  | [click here](https://github.com/eugeneyan/visualizing-finetunes)  |
