@@ -24,3 +24,7 @@ Fine tune LLM for custom requirements
 | Use case | Code |
 | ------------- | ------------- |
 | [Out-of-Domain Finetuning to Bootstrap Hallucination Detection](https://eugeneyan.com/writing/finetuning/)  | [click here](https://github.com/eugeneyan/visualizing-finetunes)  |
+| Finetuning My Clone — Training an LLM to Talk Like Me!  | [click here](https://github.com/watsonchua/finetune-your-clone)  |
+
+#### Collection 
+- [Brev.dev](https://github.com/brevdev/notebooks/tree/main)
